@@ -1,0 +1,110 @@
+appointment_start_time_24h,appointment_end_time_24h,duration_minutes,day_of_the_week,service_type,has_down_payment,down_payment_amount,down_payment_date,payment_status,payment_method,is_holiday,holiday_type,is_typhoon_risk,typhoon_signal_level,is_rainy_season,prev_cancel,lead_time_days,reminder_sent,reminder_date,reminder_time_lag,age,gender,diagnosis,distance_km
+10:00,11:00,60,Tue,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,3,5,M,ASD,2.732484543
+11:00,12:00,60,Tue,OT,Yes,1500,3/26/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,20,Yes,4/12/2025,3,8,M,GDD,2.732484543
+12:00,13:00,60,Tue,OT,Yes,1500,4/11/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,3,4,M,ADHD,17.13171679
+13:00,14:00,60,Tue,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,3,5,M,ADHD,10.12998491
+14:00,15:00,60,Tue,OT,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/12/2025,3,8,M,SLD,2.732484543
+15:00,16:00,60,Tue,OT,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,3,Yes,4/12/2025,3,7,F,ODD,2.732484543
+9:00,10:00,60,Tue,ST,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,3,5,M,ASD,2.732484543
+10:00,11:00,60,Tue,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/12/2025,3,6,M,ASD Level 2,2.732484543
+11:00,12:00,60,Tue,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/12/2025,3,5,F,Down Syndrome,24.13338511
+12:00,13:00,60,Tue,ST,Yes,1000,4/14/2025,Arrears,BDO,No,Ordinary Day,No,0,No,No,1,Yes,4/14/2025,1,5,F,ODD,24.13338511
+13:00,14:00,60,Tue,ST,Yes,1500,4/13/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,2,Yes,4/14/2025,1,4,M,ADHD,17.13171679
+14:00,15:00,60,Tue,ST,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,3,5,M,ADHD,10.12998491
+15:00,16:00,60,Tue,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/12/2025,3,8,M,SLD,2.732484543
+16:00,17:00,60,Tue,ST,Yes,750,3/23/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,23,Yes,4/12/2025,3,5,F,ODD,26.64343999
+9:00,10:00,60,Wed,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/12/2025,4,8,M,SLD,17.13171679
+10:00,11:00,60,Wed,OT,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/12/2025,4,4,M,Speech Delay,10.12998491
+11:00,12:00,60,Wed,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/12/2025,4,5,F,ODD,26.64343999
+12:00,13:00,60,Wed,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/12/2025,4,9,F,SLD,10.12998491
+13:00,14:00,60,Wed,OT,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,6,Yes,4/13/2025,3,8,M,SLD,2.732484543
+9:00,10:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/13/2025,3,4,F,SPD,43.20383007
+10:00,11:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/13/2025,3,4,F,Intellectual Disability,17.13171679
+11:00,12:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/13/2025,3,6,M,Speech Delay,24.13338511
+12:00,13:00,60,Wed,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/13/2025,3,5,F,ODD,26.64343999
+13:00,14:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/13/2025,3,8,M,ASD,10.12998491
+14:00,15:00,60,Wed,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,6,Yes,4/13/2025,3,8,M,SLD,2.732484543
+15:00,16:00,60,Wed,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/13/2025,3,7,M,ASD,2.732484543
+9:00,10:00,60,Sun,OT,No,0,,Arrears,,Yes,Observance,No,0,No,No,,Yes,4/18/2025,2,8,M,GDD,2.732484543
+10:00,11:00,60,Sun,OT,Yes,1000,4/12/2025,Arrears,Gcash,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,5,M,ADHD,10.12998491
+11:00,12:00,60,Sun,OT,Yes,1500,4/12/2025,Updated,Gcash,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,6,M,ASD Level 3,31.73193874
+12:00,13:00,60,Sun,OT,Yes,1500,4/18/2025,Updated,Gcash,Yes,Observance,No,0,No,Yes,2,Yes,4/18/2025,2,8,M,ASD,24.13338511
+13:00,14:00,60,Sun,OT,No,0,,Arrears,,Yes,Observance,No,0,No,No,,Yes,4/18/2025,2,5,M,SPD,24.13338511
+14:00,15:00,60,Sun,OT,Yes,1000,4/12/2025,Arrears,BDO,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,5,M,ASD,2.732484543
+15:00,16:00,60,Sun,OT,Yes,1500,4/14/2025,Updated,BDO,Yes,Observance,No,0,No,No,6,Yes,4/18/2025,2,6,F,ASD Level 2,2.732484543
+16:00,17:00,60,Sun,OT,No,0,,Arrears,,Yes,Observance,No,0,No,No,,Yes,4/18/2025,2,6,F,ODD,24.13338511
+17:00,18:00,60,Sun,OT,Yes,1000,4/12/2025,Arrears,Gcash,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,4,M,Dyslexia,51.72417553
+9:00,10:00,60,Sun,ST,Yes,1500,4/17/2025,Updated,Gcash,Yes,Observance,No,0,No,No,3,Yes,4/18/2025,2,6,M,ASD,2.732484543
+10:00,11:00,60,Sun,ST,No,0,,Arrears,,Yes,Observance,No,0,No,No,,Yes,4/18/2025,2,5,F,Down Syndrome,24.13338511
+11:00,12:00,60,Sun,ST,Yes,1000,4/2/2025,Arrears,Gcash,Yes,Observance,No,0,No,No,18,Yes,4/18/2025,2,5,M,ADHD,10.12998491
+12:00,13:00,60,Sun,ST,No,0,,Arrears,,Yes,Observance,No,0,No,No,,Yes,4/18/2025,2,7,M,ADHD,24.13338511
+13:00,14:00,60,Sun,ST,Yes,1000,4/12/2025,Arrears,BDO,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,5,M,ASD,2.732484543
+14:00,15:00,60,Sun,ST,Yes,1500,4/14/2025,Updated,BDO,Yes,Observance,No,0,No,No,6,Yes,4/18/2025,2,6,F,ASD Level 2,2.732484543
+15:00,16:00,60,Sun,ST,Yes,1000,4/12/2025,Arrears,Gcash,Yes,Observance,No,0,No,No,8,Yes,4/18/2025,2,8,F,SLD,59.73215245
+16:00,17:00,60,Sun,ST,No,0,,Arrears,,Yes,Observance,No,0,No,Yes,,Yes,4/18/2025,2,5,M,Dyslexia,26.64343999
+9:00,10:00,60,Mon,OT,Yes,1500,4/17/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,4,Yes,4/19/2025,2,6,M,ASD,2.732484543
+10:00,11:00,60,Mon,OT,,1500,4/14/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,7,Yes,4/19/2025,2,6,F,ASD Level 2,2.732484543
+11:00,12:00,60,Mon,OT,,1500,4/17/2025,Updated,Gcash,No,Ordinary Day,No,0,No,Yes,4,Yes,4/19/2025,2,4,M,SLD,2.732484543
+12:00,13:00,60,Mon,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/19/2025,2,6,M,ASD Level 2,2.732484543
+13:00,14:00,60,Mon,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/19/2025,2,7,M,ADHD,24.13338511
+14:00,15:00,60,Mon,OT,Yes,1000,4/16/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/19/2025,2,4,M,Speech Delay,10.12998491
+15:00,16:00,60,Mon,OT,Yes,1000,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,9,Yes,4/19/2025,2,8,F,SLD,59.73215245
+16:00,17:00,60,Mon,OT,Yes,1500,4/11/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,10,Yes,4/19/2025,2,4,F,SPD,43.20383007
+17:00,18:00,60,Mon,OT,Yes,1000,4/12/2025,Arrears,BDO,No,Ordinary Day,No,0,No,No,9,Yes,4/19/2025,2,5,M,ASD,2.732484543
+11:00,12:00,60,Mon,ST,Yes,1500,4/20/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,1,Yes,4/20/2025,1,6,F,ASD Level 2,2.732484543
+12:00,13:00,60,Mon,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,Yes,,Yes,4/19/2025,2,8,M,ASD,10.12998491
+13:00,14:00,60,Mon,ST,Yes,1000,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,9,Yes,4/19/2025,2,8,F,SLD,59.73215245
+14:00,15:00,60,Mon,ST,Yes,1500,4/11/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,10,Yes,4/19/2025,2,4,F,SPD,43.20383007
+14:00,15:00,60,Mon,ST,Yes,1000,4/12/2025,Arrears,BDO,No,Ordinary Day,No,0,No,No,9,Yes,4/19/2025,2,5,M,ASD,2.732484543
+15:00,16:00,60,Mon,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/19/2025,2,7,M,ASD,2.732484543
+9:00,10:00,60,Tue,OT,Yes,1500,3/26/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,27,Yes,4/20/2025,2,8,M,GDD,2.732484543
+10:00,11:00,60,Tue,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,2,5,M,ASD,2.732484543
+11:00,12:00,60,Tue,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/20/2025,2,8,M,ASD,24.13338511
+12:00,13:00,60,Tue,OT,Yes,1500,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,2,4,M,ADHD,17.13171679
+13:00,14:00,60,Tue,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,2,5,M,ADHD,10.12998491
+14:00,15:00,60,Tue,OT,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,12,Yes,4/20/2025,2,8,M,SLD,2.732484543
+15:00,16:00,60,Tue,OT,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,10,Yes,4/20/2025,2,4,M,Dyslexia,31.73193874
+16:00,17:00,60,Tue,OT,Yes,1500,4/15/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,7,Yes,4/20/2025,2,8,F,SLD,59.73215245
+9:00,10:00,60,Tue,ST,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,2,5,M,ASD,2.732484543
+10:00,11:00,60,Tue,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,12,Yes,4/20/2025,2,6,M,ASD Level 2,2.732484543
+11:00,12:00,60,Tue,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,Yes,,Yes,4/20/2025,2,5,F,Down Syndrome,24.13338511
+12:00,13:00,60,Tue,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/20/2025,2,8,M,ASD,24.13338511
+13:00,14:00,60,Tue,ST,Yes,1000,4/13/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,9,Yes,4/20/2025,2,4,M,ADHD,17.13171679
+14:00,15:00,60,Tue,ST,Yes,1500,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,2,5,M,ADHD,10.12998491
+15:00,16:00,60,Tue,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,12,Yes,4/20/2025,2,8,M,SLD,2.732484543
+16:00,17:00,60,Tue,ST,Yes,750,3/23/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,30,Yes,4/20/2025,2,5,F,ODD,26.64343999
+9:00,10:00,60,Wed,OT,Yes,750,4/22/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/22/2025,1,4,M,Dyslexia,31.73193874
+10:00,11:00,60,Wed,OT,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,3,4,M,Speech Delay,10.12998491
+11:00,12:00,60,Wed,OT,Yes,750,4/21/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,2,Yes,4/20/2025,3,5,M,ASD Level 2,17.13171679
+12:00,13:00,60,Wed,OT,Yes,750,4/11/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,12,Yes,4/20/2025,3,9,F,SLD,10.12998491
+13:00,14:00,60,Wed,OT,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,13,Yes,4/20/2025,3,8,M,SLD,2.732484543
+14:00,15:00,60,Wed,OT,Yes,1500,4/15/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,8,Yes,4/20/2025,3,8,M,GDD,2.732484543
+15:00,16:00,60,Wed,OT,Yes,750,4/15/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,8,Yes,4/20/2025,3,8,F,SLD,59.73215245
+9:00,10:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,3,4,F,SPD,43.20383007
+10:00,11:00,60,Wed,ST,Yes,750,4/13/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,Yes,10,Yes,4/20/2025,3,4,F,Intellectual Disability,17.13171679
+11:00,12:00,60,Wed,ST,Yes,750,4/14/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,9,Yes,4/20/2025,3,6,M,Speech Delay,24.13338511
+12:00,13:00,60,Wed,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/20/2025,3,5,F,ODD,26.64343999
+13:00,14:00,60,Wed,ST,Yes,750,4/12/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,11,Yes,4/20/2025,3,8,M,ASD,10.12998491
+14:00,15:00,60,Wed,ST,Yes,750,4/10/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,13,Yes,4/20/2025,3,8,M,SLD,2.732484543
+15:00,16:00,60,Wed,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/20/2025,3,7,M,ASD,2.732484543
+10:00,11:00,60,Sat,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,7,M,SLD,51.72417553
+11:00,12:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,5,M,Intellectual Disability,2.732484543
+12:00,13:00,60,Sat,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,7,M,ASD,2.732484543
+13:00,14:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,4,M,SLD,51.72417553
+14:00,15:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,6,M,Intellectual Disability,51.72417553
+15:00,16:00,60,Sat,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,5,M,ASD,2.732484543
+16:00,17:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,6,M,ODD,2.732484543
+10:00,11:00,60,Sat,ST,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,8,M,ASD,10.12998491
+11:00,12:00,60,Sat,ST,Yes,1500,4/21/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,5,Yes,4/25/2025,1,5,M,SLD,10.12998491
+13:00,14:00,60,Sat,ST,Yes,1000,4/21/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/25/2025,1,5,M,ADHD,10.12998491
+13:00,14:00,60,Sat,ST,Yes,1500,4/22/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,4,Yes,4/25/2025,1,6,F,ASD Level 2,2.732484543
+14:00,15:00,60,Sat,ST,Yes,2000,4/25/2025,Arrears,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,9,M,ODD,59.73215245
+15:00,16:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,4,M,SLD,2.732484543
+16:00,17:00,60,Sat,ST,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,4,M,Dyslexia,51.72417553
+10:00,11:00,60,Sat,OT,Yes,1500,4/21/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,5,Yes,4/25/2025,1,5,M,SLD,10.12998491
+12:00,13:00,60,Sat,OT,Yes,1500,4/22/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,4,Yes,4/25/2025,1,6,F,ASD Level 2,2.732484543
+12:00,13:00,60,Sat,OT,Yes,1500,4/21/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,5,Yes,4/25/2025,1,5,M,ADHD,10.12998491
+13:00,14:00,60,Sat,OT,Yes,1500,4/25/2025,Updated,BDO,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,6,M,Intellectual Disability,51.72417553
+14:00,15:00,60,Sat,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,5,M,ASD,2.732484543
+15:00,16:00,60,Sat,OT,No,0,,Arrears,,No,Ordinary Day,No,0,No,No,,Yes,4/25/2025,1,8,M,GDD,2.732484543
+16:00,17:00,60,Sat,OT,Yes,1500,4/25/2025,Updated,Gcash,No,Ordinary Day,No,0,No,No,1,Yes,4/25/2025,1,4,M,SLD,2.732484543

@@ -1,6 +1,6 @@
 | Data Variable               | Type (Quant/Qual)          | Unit/Scale                          | Frequency of Collection           | Tool/App                         |
 |-----------------------------|-----------------------------|--------------------------------------|-----------------------------------|----------------------------------|
-| Attendance_Status (Target) | Qualitative (Binary)        | Show / No-Show                       | Per appointment                   | Clinic Schedule Sheet            |
+| Attendance_Status          | Qualitative (Binary)        | Show / No-Show                       | Per appointment                   | Clinic Schedule Sheet            |
 | Appointment_Start_Time_24h | Qualitative (Ordinal)       | Time                                 | Per appointment                   | Clinic Schedule Sheet            |
 | Appointment_End_Time_24h   | Qualitative (Ordinal)       | Time                                 | Per appointment                   | Clinic Schedule Sheet            |
 | Duration_Minutes           | Quantitative                | Minutes                              | Per appointment                   | Derived from schedule            |
@@ -21,7 +21,6 @@
 | Is_Typhoon_Risk            | Qualitative (Binary)        | Yes / No                             | Daily                             | PAGASA Advisories                |
 | Typhoon_Signal_Level       | Qualitative (Ordinal)       | Signal 0–5                           | Daily                             | PAGASA Signals                   |
 | Is_Rainy_Season            | Qualitative (Binary)        | Yes / No                             | Monthly                           | PH Climate Classification         |
-| Prev_Cancel                | Qualitative (Binary)        | Yes / No                             | Per appointment                   | Derived from history             |
 | Lead_Time_Days             | Quantitative                | Days between booking & appointment   | Per appointment                   | Derived from booking logs        |
 | Reminder_Sent              | Qualitative (Binary)        | Yes / No                             | Per appointment                   | SMS logs                         |
 | Reminder_Time_Lag          | Quantitative                | Hours before appointment             | Per appointment                   | Derived from reminder logs       |

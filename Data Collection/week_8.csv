@@ -1,4 +1,4 @@
-appointment_start_time_24h,appointment_end_time_24h,duration_minutes,day_of_the_week,service_type,has_down_payment,down_payment_amount,down_payment_date,payment_status,payment_method,is_holiday,holiday_type,is_typhoon_risk,typhoon_signal_level,is_rainy_season,prev_cancel,lead_time_days,reminder_sent,reminder_date,reminder_time_lag,age,gender,diagnosis,distance_km
+appointment_start_time_24h,appointment_end_time_24h,duration_minutes,day_of_the_week,service_type,has_down_payment,down_payment_amount,down_payment_date,payment_status,payment_method,is_holiday,holiday_type,is_typhoon_risk,typhoon_signal_level,is_rainy_season,attendance_status,lead_time_days,reminder_sent,reminder_date,reminder_time_lag,age,gender,diagnosis,distance_km
 10:00,11:00,60,Mon,OT,Yes,1600,6/22/2025,Updated,BDO,No,Ordinary Day,No,0,Yes,No,8,Yes,6/28/2025,2,6,F,ASD Level 2,2.732484543
 10:00,11:00,60,Mon,OT,No,0,,Arrears,,No,Ordinary Day,No,0,Yes,No,,Yes,6/28/2025,2,6,M,ASD,2.732484543
 11:00,12:00,60,Mon,OT,No,0,,Arrears,,No,Ordinary Day,No,0,Yes,No,,Yes,6/28/2025,2,6,M,ASD Level 2,2.732484543
@@ -121,3 +121,4 @@ appointment_start_time_24h,appointment_end_time_24h,duration_minutes,day_of_the_
 14:00,15:00,60,Tue,ST,Yes,1000,07/11/2025,Arrears,Gcash,No,Ordinary Day,Yes,2,Yes,Yes,11,Yes,7/20/2025,2,5,M,ADHD,10.12998491
 15:00,16:00,60,Tue,ST,Yes,2000,07/10/2025,Arrears,Gcash,No,Ordinary Day,Yes,2,Yes,Yes,12,Yes,7/20/2025,2,6,F,ODD,24.13338511
 16:00,17:00,60,Tue,ST,Yes,1000,07/10/2025,Arrears,Gcash,No,Ordinary Day,Yes,2,Yes,Yes,12,Yes,7/20/2025,2,4,M,Speech Delay,10.12998491
+
